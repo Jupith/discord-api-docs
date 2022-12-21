@@ -189,8 +189,9 @@ Along with the HTTP error code, our API can also return more detailed error code
 | 30042  | Maximum number of guild widget settings updates has been reached. Try again later                                             |
 | 30046  | Maximum number of edits to messages older than 1 hour reached. Try again later                                                |
 | 30047  | Maximum number of pinned threads in a forum channel has been reached                                                          |
-| 30048  | Maximum number of tags in a forum channel has been reached                                                                    |
+| 30048  | Maximum number of webhooks per guild reached (1000)                                                                           |
 | 30052  | Bitrate is too high for channel of this type                                                                                  |
+| 30058  | Maximum number of pinned threads in a forum channel has been reached                                                          |
 | 40001  | Unauthorized. Provide a valid token and try again                                                                             |
 | 40002  | You need to verify your account in order to perform this action                                                               |
 | 40003  | You are opening direct messages too fast                                                                                      |
